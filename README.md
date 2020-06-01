@@ -1,0 +1,2 @@
+# QWJ-vimrc
+myvimrc
